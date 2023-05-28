@@ -1,0 +1,222 @@
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.StaticWebAssets.xml
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.exe
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.deps.json
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.runtimeconfig.json
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.runtimeconfig.dev.json
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ref\AL-IRSHAAD MAGAMENT SYSTEM.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.pdb
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.Views.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.Views.pdb
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.AssemblyInfo.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\staticwebassets\AL-IRSHAAD MAGAMENT SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\staticwebassets\AL-IRSHAAD MAGAMENT SYSTEM.StaticWebAssets.xml
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\scopedcss\bundle\AL-IRSHAAD MAGAMENT SYSTEM.styles.css
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.TagHelpers.input.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.TagHelpers.output.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.RazorCoreGenerate.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.RazorTargetAssemblyInfo.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.Views.pdb
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.csproj.CopyComplete
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\ref\AL-IRSHAAD MAGAMENT SYSTEM.dll
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.pdb
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\AL-IRSHAAD MAGAMENT SYSTEM.genruntimeconfig.cache
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Terms\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Terms\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Terms\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Terms\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Terms\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Staffs\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Staffs\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Staffs\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Staffs\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Staffs\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Classes\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Classes\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Classes\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Classes\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Classes\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student__Reggs\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student__Reggs\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student__Reggs\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student__Reggs\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student__Reggs\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student_Transfer\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student_Transfer\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student_Transfer\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student_Transfer\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student_Transfer\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Teachers\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Teachers\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Teachers\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Teachers\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Teachers\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\AccademicYearrs\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\AccademicYearrs\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\AccademicYearrs\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\AccademicYearrs\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\AccademicYearrs\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Exams\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Exams\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Exams\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Exams\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Exams\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\FEEs\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\FEEs\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\FEEs\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\FEEs\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\FEEs\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Shared\Admin_Layout.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\ApplicationUsers\Create.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\ApplicationUsers\Delete.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\ApplicationUsers\Details.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\ApplicationUsers\Edit.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\ApplicationUsers\Index.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\ApplicationUsers\Roles.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\ApplicationUsers\UserRoles.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\AccademicYearrs\Report1.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\FEEs\Report3.cshtml.g.cs
+C:\Users\HP\source\repos\AL-IRSHAAD MAGAMENT SYSTEM\AL-IRSHAAD MAGAMENT SYSTEM\obj\Debug\net5.0\Razor\Views\Student__Reggs\Report2.cshtml.g.cs

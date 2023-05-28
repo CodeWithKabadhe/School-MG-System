@@ -1,0 +1,52 @@
+﻿@model AL_IRSHAD_SCHOOL_BOYSS.Models.AccademicYearr
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "Admin_Layout";
+}
+}
+
+<h1>Create</h1>
+
+<h4>AccademicYearr</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TOClass" class="control-label"></label>
+                <input asp-for="TOClass" class="form-control" />
+                <span asp-validation-for="TOClass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ClassNow" class="control-label"></label>
+                <input asp-for="ClassNow" class="form-control" />
+                <span asp-validation-for="ClassNow" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="AdminPermition" /> @Html.DisplayNameFor(model => model.AdminPermition)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-outline-primary" /> |
+                <a asp-action="Index" class="btn btn-outline-dark">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+ 
+
+
+

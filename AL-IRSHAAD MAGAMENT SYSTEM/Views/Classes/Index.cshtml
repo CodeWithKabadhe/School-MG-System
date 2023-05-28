@@ -1,0 +1,44 @@
+﻿@model IEnumerable<AL_IRSHAAD_MAGAMENT_SYSTEM.Models.Class>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "Admin_Layout";
+}
+}
+
+<h1>Class</h1>
+
+<p>
+    <a asp-action="Create"class="btn btn-outline-dark">Create New</a>
+</p>
+<table class="table table-success table-hover table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ClassName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subject)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClassName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Subject)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.id" class="btn btn-outline-primary">Edit</a> |
+
+                    <a asp-action="Delete" asp-route-id="@item.id" class="btn btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,55 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "";
+
+}
+
+<h1>@ViewData["Title"]</h1>
+<div style="padding-left: 320px; padding-top: 60px">
+    <div class="p-4 shadow-sm col-7" style="background: white;">
+        <section>
+            <form id="account" method="post">
+                <h3 class="text-dark" style="font-weight: bold;">LOG IN AL-IRSHAAD</h3>
+                <p style="color: black;">Login your account now or register</p>
+                <hr />
+                <div asp-validation-summary="All" class="text-primary"></div>
+                <div class="form-group">
+                    <label asp-for="Input.Email" style="color: black;"></label>
+                    <input asp-for="Input.Email" class="form-control" />
+                    <span asp-validation-for="Input.Email" class="text-primary"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Input.Password"></label>
+                    <input asp-for="Input.Password" class="form-control" />
+                    <span asp-validation-for="Input.Password" class="text-primary"></span>
+                </div>
+                <div class="form-group">
+                    <div class="checkbox">
+                        <label asp-for="Input.RememberMe" style="color: black; text-align: center;">
+                            <input asp-for="Input.RememberMe" />
+                            @Html.DisplayNameFor(m => m.Input.RememberMe)
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group" style="padding-top: 20px;">
+                    <button type="submit" class="btn btn-success form-control" style="font-weight: bold;">Log in</button>
+                </div>
+                <div class="form-group" style="padding-top: 20px;">
+                    <p>
+                        <a id="forgot-password" asp-page="./ForgotPassword" class="btn btn-primary form-control" style="font-weight: bold;">Forgot your password</a>
+                    </p>
+                    <p>
+                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="btn btn-primary form-control" style="font-weight: bold;">Register as a new user</a>
+                    </p>
+
+                </div>
+            </form>
+        </section>
+    </div>
+
+</div>
+
+
+

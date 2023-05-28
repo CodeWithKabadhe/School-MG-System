@@ -1,0 +1,61 @@
+﻿
+@model IEnumerable<AL_IRSHAAD_MAGAMENT_SYSTEM.Models.Student__Reggs>
+@inject AL_IRSHAAD_MAGAMENT_SYSTEM.Data.ApplicationDbContext database
+
+@{
+    ViewData["Title"] = "Report";
+    Layout = "Admin_Layout";
+
+    var products = database.Student__Reggs.ToList();
+}
+
+
+<div class="row mt-3 justify-content-center">
+
+    <!-- Topbar Search -->
+    <form asp-action="Report" class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search justify-content-center">
+        <div class="input-group justify-content-between">
+            <span>StartDate :  </span><input type="date" name="StartDate" />
+            <span>EndDate :  </span><input type="date" name="EndDate" />
+            <input type="submit" value="Get Records between Dates" />
+        </div>
+    </form>
+</div>
+<div class="shadow p-3" style="background-color:white; border-radius:10px;">
+
+    <div class="row justify-content-center">
+        <h4> STUDENTREG REPORTS</h4>
+    </div>
+    <div class="row mt-3 justify-content-between">
+        <p>Details about  studentReg report</p>
+        <p>Date: @DateTime.Now.ToString("dd/M/yyyy")</p>
+    </div>
+
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>FullName</th>
+                <th>MotherName</th>
+                <th>Phone</th>
+                <th>DateOfBirth</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in products)
+            {
+                <tr>
+                    <td>@item.FullName</td>
+                    <td>@item.MotherName</td>
+                    <td>@item.Phone</td>
+                    <td>@item.DateOfBirth</td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+
+

@@ -1,0 +1,48 @@
+﻿@model AL_IRSHAAD_MAGAMENT_SYSTEM.Models.Exam
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "Admin_Layout";
+}
+}
+
+<h1>Edit</h1>
+
+<h4>Exam</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="SubjectNames" class="control-label"></label>
+                <input asp-for="SubjectNames" class="form-control" />
+                <span asp-validation-for="SubjectNames" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TermName" class="control-label"></label>
+                <input asp-for="TermName" class="form-control" />
+                <span asp-validation-for="TermName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalMarks" class="control-label"></label>
+                <input asp-for="TotalMarks" class="form-control" />
+                <span asp-validation-for="TotalMarks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Grade" class="control-label"></label>
+                <input asp-for="Grade" class="form-control" />
+                <span asp-validation-for="Grade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
